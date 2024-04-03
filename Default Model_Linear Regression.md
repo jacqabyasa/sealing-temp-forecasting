@@ -35,24 +35,24 @@ Linear Regression aims to find the best-fitting straight line through the data p
 
    - Add the required telemetry or calculated fields into the Trendz view. Then, open the Field settings dialog and select the **LINEAR REGRESSION** option in the Prediction method dropdown.
 
-     ![alt text](..\images\default_LR\fillgap.png)
-     ![alt text](..\images\default_LR\pred.png)
+     ![alt text](images/default_LR/fillgap.png)
+     ![alt text](images/default_LR/pred.png)
 
    - Set the **Prediction Unit** to days. Specify the **Prediction Range** (e.g., 1 days for the next 1 days)
 
-     ![alt text](..\images\default_LR\range.png)
+     ![alt text](images/default_LR/range.png)
 
 4. Visualize the Prediction. After writing the code, you can **BUILD** a view to see the result of your prediction model.
 
-   ![alt text](..\images\default_LR\build.png)
+   ![alt text](images/default_LR/build.png)
 
    - Lower Vertical Sealing Temperature:
 
-     ![alt text](..\images\default_LR\result_vb.png)
+     ![alt text](images/default_LR/result_vb.png)
 
    - Upper Vertical Sealing Temperature:
 
-     ![alt text](..\images\default_LR\result_va.png)
+     ![alt text](images/default_LR/result_va.png)
 
 5. Evaluate the Forecast Model:
 
