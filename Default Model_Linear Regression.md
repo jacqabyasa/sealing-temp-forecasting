@@ -31,7 +31,7 @@ Linear Regression aims to find the best-fitting straight line through the data p
 
    - Visualize data in **Line**
 
-     ![alt text](..\images\default_LR\line.png)
+     ![alt text](images/default_LR/line.png)
 
    - Add the required telemetry or calculated fields into the Trendz view. Then, open the Field settings dialog and select the **LINEAR REGRESSION** option in the Prediction method dropdown.
 
