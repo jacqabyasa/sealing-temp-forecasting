@@ -32,15 +32,15 @@ SARIMAX extends the traditional ARIMA (Autoregressive Integrated Moving Average)
 
    - Visualize data in **Line**
 
-     ![alt text](images\custom_SARIMAX\line.png)
+     ![alt text](images/custom_SARIMAX/line.png)
 
    - Enable Custom Prediction Model. First, add the required telemetry or calculated fields into the Trendz view. Then, open the Field settings dialog and select the **CUSTOM** option in the Prediction method dropdown.
 
-     ![alt text](images\custom_SARIMAX\date.png)
-     ![alt text](images\custom_SARIMAX\group.png)
-     ![alt text](images\custom_SARIMAX\avg.png)
-     ![alt text](images\custom_SARIMAX\fillgap.png)
-     ![alt text](images\custom_SARIMAX\pred.png)
+     ![alt text](images/custom_SARIMAX/date.png)
+     ![alt text](images/custom_SARIMAX/group.png)
+     ![alt text](images/custom_SARIMAX/avg.png)
+     ![alt text](images/custom_SARIMAX/fillgap.png)
+     ![alt text](images/custom_SARIMAX/pred.png)
 
    - Write the Python Code. For a univariable model, write the Python code in the Model function section. Here’s an example python code for the SARIMAX model:
 
@@ -69,23 +69,23 @@ SARIMAX extends the traditional ARIMA (Autoregressive Integrated Moving Average)
         return outputY
      ```
 
-     ![alt text](images\custom_SARIMAX\code.png)
+     ![alt text](images/custom_SARIMAX/code.png)
 
    - Set the **Prediction Unit** to days. Specify the **Prediction Range** (e.g., 1 days for the next 1 days)
 
-     ![alt text](images\custom_SARIMAX\range.png)
+     ![alt text](images/custom_SARIMAX/range.png)
 
 4. Visualize the Prediction. After writing the code, you can **BUILD** a view to see the result of your prediction model.
 
-   ![alt text](images\custom_SARIMAX\build.png)
+   ![alt text](images/custom_SARIMAX/build.png)
 
    - Lower Vertical Sealing Temperature:
 
-     ![alt text](images\custom_SARIMAX\result_vb.png)
+     ![alt text](images/custom_SARIMAX/result_vb.png)
 
    - Upper Vertical Sealing Temperature:
 
-     ![alt text](images\custom_SARIMAX\result_va.png)
+     ![alt text](images/custom_SARIMAX/result_va.png)
 
 5. Evaluate the Forecast Model:
 
