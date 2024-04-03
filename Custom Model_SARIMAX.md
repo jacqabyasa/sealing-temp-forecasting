@@ -94,8 +94,8 @@ SARIMAX extends the traditional ARIMA (Autoregressive Integrated Moving Average)
 
      |  Temperature   | MAE | MSE | RMSE | MAPE |
      | :------------: | :-: | :-: | :--: | :--: |
-     | Lower Vertical |  -  |  -  |  -   |  -   |
-     | Upper Vertical |  -  |  -  |  -   |  -   |
+     | Lower Vertical |  17.24  |  490.84  |  22.15   |  8.59   |
+     | Upper Vertical |  20.92  |  667.0  |  25.83   |  10.53   |
 
 ## Conclusion
 
