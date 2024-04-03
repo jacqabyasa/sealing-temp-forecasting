@@ -4,7 +4,7 @@
 
 This README provides a step-by-step guide on leveraging a custom SARIMAX (Seasonal Autoregressive Integrated Moving Average with Exogenous Regressors) model within the Trendz Analytics platform for data forecasting. SARIMAX is a powerful time series forecasting technique that integrates autoregressive and moving average components, along with the capability to handle exogenous variables.
 
-## SARIMAX Model Explanation
+## SARIMAX Model
 
 SARIMAX extends the traditional ARIMA (Autoregressive Integrated Moving Average) model by incorporating exogenous regressors. The key components include:
 
