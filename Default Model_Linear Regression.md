@@ -61,8 +61,8 @@ Linear Regression aims to find the best-fitting straight line through the data p
 
      |  Temperature   | MAE | MSE | RMSE | MAPE |
      | :------------: | :-: | :-: | :--: | :--: |
-     | Lower Vertical |  -  |  -  |  -   |  -   |
-     | Upper Vertical |  -  |  -  |  -   |  -   |
+     | Lower Vertical |  16.08  |  319.2  |  17.87   |  7.8   |
+     | Upper Vertical |  16.0  |  306.0  |  17.49   |  7.83   |
 
 ## Conclusion
 
